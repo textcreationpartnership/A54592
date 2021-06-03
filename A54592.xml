@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jerub-baal. Being, a three-penny answer to a twelve-penny book Written by William Assheton, D.D. and rector of Beckenham in Kent. Which he is pleased to stile a conference with an anabaptist. In which answer you have his presumptions proved to be no proofs for infant-baptism. By E.P. a preacher of the Gospel.</title>
+            <author>E. P.</author>
+         </titleStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54592</idno><idno type="EEBO-CITATION">99829124</idno>
+  <idno type="VID">33560</idno>
+  <idno type="EEBO-PROQUEST">2248496414</idno>
+  
+            <idno type="STC">Wing P18A</idno>
+            <idno type="STC">ESTC R217459</idno>
+            <idno type="PROQUEST">99829124</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829124e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54592)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33560)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1974:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jerub-baal. Being, a three-penny answer to a twelve-penny book Written by William Assheton, D.D. and rector of Beckenham in Kent. Which he is pleased to stile a conference with an anabaptist. In which answer you have his presumptions proved to be no proofs for infant-baptism. By E.P. a preacher of the Gospel.</title>
+                  <author>E. P.</author>
+               </titleStmt>
+               <extent>[4], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, and sold by B. Harris, at the upper-end of Grace-church-street, next Corn-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An answer to: Asshton, William. A conference with an Anabaptist.</note>
+                  <note>Caption title on p.1 reads: Jerub-baal. Being, a three-penny answer to Dr. Ashton's Conference, &amp;c.</note>
+                  <note>Imperfect: lacking pp.16-17; pages cropped at head, affecting pagination.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Assheton, William, 1641-1711. --  Conference with an Anabaptist --  Early works to 1800.</term>
+               <term type="topical_term">Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33560:1"/>
+            <p>JERUB-BAAL. BEING, A Three-penny Answer TO A Twelve-Penny Book.</p>
+            <p>Written by <hi>William Assheton,</hi> D. D. and <hi>Rector</hi> of <hi>Beckenham</hi> in <hi>Kent.</hi>
+            </p>
+            <p>Which he is pleased to Stile a Conference with an ANABAPTIST.</p>
+            <p>In which Answer you have his <hi>Presumpti<g ref="char:EOLhyphen"/>ions</hi> proved to be no <hi>Proofs</hi> for INFANT-BAPTISM.</p>
+            <p>By <hi>E. P.</hi> A Preacher of the Gospel.</p>
+            <q>
+               <bibl>Judges 6. 32.</bibl>
+               <p>Let <hi>Baal</hi> plead against him, be<g ref="char:EOLhyphen"/>cause one hath thrown down his Altar.</p>
+            </q>
+            <q>
+               <p>The Baptism of <hi>John,</hi> whence was it, from Heaven or of Men?</p>
+               <bibl>Mat. 21. 25.</bibl>
+            </q>
+            <q>
+               <p>I beseech you regard not what this or that Man saith, but en<g ref="char:EOLhyphen"/>quire all things of the Scriptures, saith,</p>
+               <bibl>Crys. Hom. on 2. Cor.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for the AUTHOR, <hi>and</hi> Sold by <hi>B. Harris,</hi> at the upper-end of <hi>Grace<g ref="char:EOLhyphen"/>church-street,</hi> next <hi>Corn-hill.</hi> 1697.</p>
+            <pb facs="tcp:33560:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33560:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:33560:3"/>
+            <head>To the <hi>Impartial READER.</hi>
+            </head>
+            <p>MY Freinds and Country-men what was of old Pre<g ref="char:EOLhyphen"/>dicted by the great Apostle of the Gentiles, is ma<g ref="char:EOLhyphen"/>nifested in these our days, 2 Tim. 4. 4. That, <hi>men shall turn away their ears from the truth, and will be tur<g ref="char:EOLhyphen"/>ned unto Fables.</hi> Amongst which, there is not a great<g ref="char:EOLhyphen"/>er shrouded under the notion of Relgious worship: then that which most men will call Infant-baptism; tho' it hath not so much as the likeness of Christ'<hi>s</hi> baptism. 1. Not the <hi>Subjects;</hi> for they are no other then penitent Belivers; 2. Not the Sign; for that is total Immersion, Burying, or overwhelming in Water. 3. Not the thing Signified; which is a Death to Sin; being buryed with Christ, Rising again to Newness of Life: None of all this is in Infants-baptism. <hi>Reader,</hi> thou art here Pre<g ref="char:EOLhyphen"/>sented with a Brief Reply to a Book written by a Worthy Dr. a Gentleman of parts and learning its pity he dropt upon such an undertaking that hath been so very un<g ref="char:EOLhyphen"/>fortunate to all the managers of it that it never Gained them Credit; I Expected that some of our more able &amp; Learned Guides: (the strings of whose Books, with Respect to Parts, and Learning, I am not worthy to un<g ref="char:EOLhyphen"/>ty, would in a few lines have dispatcht an answer: but it not appearing; and the Dr in his Preface so earnest<g ref="char:EOLhyphen"/>ly Inviting to the work; put me upon the Attempt; And I hope my zeal for every gospel truth was the chief motive, together with the good of Souls. Was God so Jealous of his own worship that he severly punished the Voiolators of it, what will become of them that obey not the Gospel of God? if the conquest of an enemy against the command of his general, cost a Roman Gentleman his life, <hi>Chrys.</hi> in <hi>Rom. 1. Hom. 2.</hi> And the killing of a Lyon contrary to the law of the Kings hunting, cost a poor Persian his head: O then do not presume on the violati<g ref="char:EOLhyphen"/>on of Gods laws: And now that God would direct and Establish you in in all Gospel truths is the Prayer of thy <gap reason="illegible: page cropped" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:33560:3"/>
+            <head>Some brief Reflections on the <hi>Doctor</hi>'s Pre<g ref="char:EOLhyphen"/>face.</head>
+            <p>IN Pag. 1. He expresseth the deep Sense he hath of the great Duty that lyes upon him, to Con<g ref="char:EOLhyphen"/>vince some Baptists in his Parish, of the Error of their not Baptising their Infants: For which neglect of theirs, he demands their Reason, <hi>&amp;c.</hi> Upon which his Neighbour <hi>B. A.</hi> sends the Dr. a few Lines in<g ref="char:EOLhyphen"/>cluding this one Reason; Because Christ, the great Lawgiver to the Gospel-Church, never Commanded us to Baptise them, <hi>&amp;c.</hi> which is worded at large in the Dr's Preface; p. 2, 3, 4, 5. To which Letter, the Dr. returns a very Friendly and smooth Answer; and subscribes himself, His affectionate Pastor, <hi>&amp;c.</hi> p. 6, 7. And then he tells us; <q>He procured the Writings of our most Eminent Authors, that he may inform himself of the Controversies.</q>—And yet, after all, he solemny Declares, <q>That he is more Confirmed, that the Baptism of young Children is in any wise to be Retained in the Church, as most a<g ref="char:EOLhyphen"/>greable to the Institution of Christ, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> First, Sir, How should it become a Con<g ref="char:EOLhyphen"/>troversie? I confess there are some Differences in Re<g ref="char:EOLhyphen"/>ligion; that there are some show of Reason to be Con<g ref="char:EOLhyphen"/>troverted: What, a Controversie, and yet such an Agreement! For, (1st.) Do not we agree, That the holy Scriptures are the only Rule of Faith, in Religi<g ref="char:EOLhyphen"/>ous Worship. (2.) You, and we, and all, except Quakers, or Papists, say, That what is not to be found in Scripture, is no part of Divine Worship. (3) Both we and you agree, that there is no Precept, nor Ex<g ref="char:EOLhyphen"/>ample for Infant-baptism in all the Scriptures. (4.) And, Sir; Do not we all agree, That there is both Precept and Example in Scripture for Believer's Ba<g ref="char:EOLhyphen"/>ptism. Now what great Reason is <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fants-baptism
+<pb facs="tcp:33560:4"/> should be laid aside? And what little Reason is there it should be a Controversie any lon<g ref="char:EOLhyphen"/>ger. And yet the Dr. saith, for all this, That Bap<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>sing of young Children must be retained in the Church; with a Pretence too, of being most agreeable to Christ's Institution: O dreadful! when the contrary is so e<g ref="char:EOLhyphen"/>vident: But it's too Desperate an Attacque, to talk of laying that aside, which was the Basis on which the Antichristian Monarchy was Founded; from the Pi<g ref="char:EOLhyphen"/>nacle of whose proud Superstructure, the <hi>Man</hi> of <hi>Sin</hi> did cast his Imperial Glance, and say with <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar; Vah, Babylon, Babylon, Proprio te robore Servo.</hi>
+            </p>
+            <p>
+               <hi>Preface.</hi> p. 8. The Dr. saith, <q>He hath not been afraid of Objections, but hath given them their full Weight.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> I know no Objection he hath answered, as the Reader will observe, And I do not see he feared them, for he hath leapt over them as so many Straws. Yet p. 9. He hopes he hath competently proved that Infants, as well as adult persons, ought to be Bapti<g ref="char:EOLhyphen"/>sed <hi>&amp;c.</hi> Then Sir, it seems adult persons ought to be Baptised; but how hath he proved that Infants are?</p>
+            <p>
+               <q>And the Second Part, the Dr. saith, shall be ano<g ref="char:EOLhyphen"/>ther distinct Treatise; that he will Publish in due time; to convince us that it is not necessary to Ad<g ref="char:EOLhyphen"/>minister Baptising by <hi>Dipping</hi>—Which is all one as if he had said, it is not necessary to Administer <hi>Baptising</hi> by <hi>Baptising;</hi> for he knows <hi>Dipping</hi> is <hi>Ba<g ref="char:EOLhyphen"/>ptising:</hi> And it cannot be without Dipping <hi>Mergo Immergo, Obbruo, Item, Tingo,</hi> &amp;c. to <hi>Dip,</hi> Plunge, <hi>&amp;c.</hi> what wonders the <hi>Dr.</hi> will do I know not: He Talks great, and promises to resolve all our Scru<g ref="char:EOLhyphen"/>ples, and Doubts: Which we wait for.</q>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:33560:4"/>
+            <head>JERUB-BAAL. BEING, A Three-penny Answer TO Dr. <hi>ASHTON</hi>'s <hi>Conference,</hi> &amp;c.</head>
+            <p>Page 2. THE <hi>Doctor</hi> desires to know the Reason why we refuse to baptize our Infants.</p>
+            <p>
+               <hi>Answer.</hi> Because Christ, the great Law-giver to the Gospel-Church, hath not Com<g ref="char:EOLhyphen"/>manded it, and we dare not change, or alter the Sacraments and Subjects of the New-Testament.—Therefore we count it no Neglect to omit that which never was in<g ref="char:EOLhyphen"/>joyned as the Duty of Christians to Per<g ref="char:EOLhyphen"/>form.</p>
+            <p>
+               <hi>Dr.</hi> p. 3. <q>This then is your Reason?</q>
+            </p>
+            <pb n="2" facs="tcp:33560:5"/>
+            <p>
+               <hi>Reply.</hi> This is one, and a good one too: For to practice that under the notion of a Gospel-Ordinance, without a Gospel-Com<g ref="char:EOLhyphen"/>mand, is daring Presumption: for it cannot be Childrens right in Infancy, there being no Command, or Authority for it in the Gospel; which were the <hi>Dr.</hi> capable of as<g ref="char:EOLhyphen"/>signing such Authority, I should not so much admire his great Confidence: But there is no reason that we should accept of such frivolous Stuff, or inconsequent Non-sequi<g ref="char:EOLhyphen"/>ters as are commonly brought; <hi>That Infants were Circumcised, therefore to be Baptised. In<g ref="char:EOLhyphen"/>fants were in Covenant, and Holy, and capable of Salvation, and therefore to be Baptised.</hi> This is but a pittiful begging the Question, so to Argue.</p>
+            <p>
+               <hi>Dr.</hi> p. 5. <q>But will you then submit, acknowledge your Error, and baptise your Children?</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> Yes, we will when the <hi>Dr.</hi> hath proved it our Duty by divine Authority: I do hereby faithfully promise him in be<g ref="char:EOLhyphen"/>half of the rest, I will become their Surety or Sponser for it: for I hope we are Con<g ref="char:EOLhyphen"/>scionably tender of all known Duties.</p>
+            <p>
+               <hi>Dr.</hi>
+               <q>I am afraid you will not; for some mens Prejudices are so strong, they will
+<pb n="3" facs="tcp:33560:5"/> not submit to the plainest Conviction: And therefore it is but trifling to call for Gospel-commands, when your Prejudices, or Fancies will not suffer you to observe them;—as I could more particularly con<g ref="char:EOLhyphen"/>vince you, if the Digression were not too large; in the neglecting the use of the <hi>Lord's-Prayer,</hi> and Singing of <hi>Psalms,</hi> both which are commanded in the Gospel of our Lord Jesus.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> How now, Sir? What, are all your smooth words spent already?—What, are we judged Prejudiced Persons, and neglecters of Gospel Commands, all in a Breath, without the least Provocation? What, will not our Prejudices or Fancies admit us to imbrace Truth? I fear you judge us out of a principle of your own Brest!—Sure, our <hi>Rector</hi>'s Intellects are not so clear, nor his Brains so well clarify'd, as to inspect our Hearts, and know us better than we ourselves: Prejudices strong! Pre<g ref="char:EOLhyphen"/>judices and Fancies!—Because we cannot subscribe to his bare <hi>Ipse-dixits;</hi> nor take his <hi>Say so's,</hi> for <hi>Proofs.</hi>—Can the Dr. suppose that such disingenious Insinuations will credit his Cause? Moreover, it's an unjust Charge, to accuse us with neglect
+<pb n="4" facs="tcp:33560:6"/> of the <hi>Lord's-Prayer,</hi> and Singing <hi>Psalms;</hi> for we are in the practice of them both, as they are injoyned in the Gospel of our Lord Jesus. Now, how unfit our <hi>Rector</hi> is to be a <hi>Corrector</hi> of his dissenting Parishoners, let the Reader judge?</p>
+            <p>The Dr. spends the six and seventh pages about the Command we expect of him: He asks, <q>Whether it's <hi>totidem verbis</hi> we ex<g ref="char:EOLhyphen"/>pect?</q> An <hi>express</hi> Command, which is necessary in all positive Worship, such as the Sacrament of <hi>Baptism</hi> is, which depends upon the Will of the great Legislator.</p>
+            <p>In p. 8. The <hi>Dr.</hi> is pleased to say, <q>It is unreasonable (not to say impertinent) for us to require an <hi>express</hi> Command for <hi>Infants-baptism.</hi>
+               </q> This he hopes to con<g ref="char:EOLhyphen"/>vince us of.</p>
+            <p>
+               <hi>Reply.</hi> I ask the <hi>Dr.</hi> What Ordinance there is, that hath it's Sanction from divine Authority, that is not expresly command<g ref="char:EOLhyphen"/>ed under either <hi>Law</hi> or <hi>Gospel? Circumci<g ref="char:EOLhyphen"/>sion,</hi> Gen. 17. 12. <hi>Every Man-child on the eighth Day shall be circumcised</hi>—Their <hi>passo<g ref="char:EOLhyphen"/>ver-Sacrifices, and carnal-Ordinances,</hi> Heb. 9. 4, 5.—10. of which we cannot now speak particularly; and God made those the in<g ref="char:EOLhyphen"/>stances of his Justice, that made the least
+<pb n="5" facs="tcp:33560:6"/> derogation therefrom, as may be abundantly shewed. Likewise, the Sacraments of the New-Testament, are expresly Recorded and Injoyned.—<hi>Baptism;</hi> the Subjects pe<g ref="char:EOLhyphen"/>nitent-Believers, Men and Women; <hi>Acts 8. 12.—37. Acts 10. 48. Acts 16. 30. Acts</hi> 18. 8. Such that had not the pre<g ref="char:EOLhyphen"/>requisite Qualifications, are repulsed, <hi>Mat.</hi> 3. though the Natural Seed of believing <hi>Abram.</hi>—And how expresly is the <hi>Lords-Supper</hi> laid down in Scripture, 1 <hi>Cor.</hi> 11. 20. with the antecedent Duty of Self-exa<g ref="char:EOLhyphen"/>mination: What can be more express?</p>
+            <p>But the Dr. saith, <q>It is unreasonable for us to expect express Command in Scri<g ref="char:EOLhyphen"/>ture for <hi>Infant-baptism.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> It is so: First, because <hi>Infant-baptism</hi> is a mere human Tradition. And Secondly, because it is contradictory to com<g ref="char:EOLhyphen"/>mon Sense and Reason, that <hi>Rantism</hi> should be <hi>Baptism:</hi> and that a Babe should be Re<g ref="char:EOLhyphen"/>generated and Born again, at a Day Old, by acting of such a Tragedy.</p>
+            <p>
+               <hi>Dr.</hi> p. 8. <q>And, first it may a little abate your Confidence, to tell you, <hi>(saith he)</hi> that what you so warmly insist upon, hath ever been the practice of the greatest <hi>Here<g ref="char:EOLhyphen"/>ticks</hi> in all Ages of the Church. Were I
+<pb n="6" facs="tcp:33560:7"/> to Discourse with <hi>Scholars,</hi> who are capa<g ref="char:EOLhyphen"/>ble to examin antient Writings, I could then shew you that this Appeal to the ex<g ref="char:EOLhyphen"/>press words of Scripture, was the very Ar<g ref="char:EOLhyphen"/>tifice of the first Four grand <hi>Heresies,</hi> con<g ref="char:EOLhyphen"/>demned by the first Four general <hi>Councils.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> If we may not appeal to express Commands in Scripture for Gospel-Ordi<g ref="char:EOLhyphen"/>nances, I wonder for what we may expect express Commands? I am sorry to read such Expressions from so worthy a Prote<g ref="char:EOLhyphen"/>stant <hi>Doctor.</hi> He talks of our Symbolizing with <hi>Hereticks,</hi>—<q>It is pity he should so Symbolize with Father <hi>Simon</hi> the <hi>French</hi> Priest, Author of the <hi>Critical History of the Old-Testament;</hi> who makes it his Bu<g ref="char:EOLhyphen"/>siness to shew the Insufficiency of the Scriptures to decide Controversies in Re<g ref="char:EOLhyphen"/>ligion without Tradition. In his <hi>Preface</hi> he hath these Words, <hi>There is, without doubt, Ignorance, or Prepossession in the minds of</hi> Protestants, <hi>who pretend that the Scripture is clear of it self, without the help of Tradition.</hi>
+               </q>
+            </p>
+            <p>Then let me enquire into matter of Fact: And it's pity the Dr. would not be so kind as to have favoured us with a Citation of those Antient Writings,—But either he was sen<g ref="char:EOLhyphen"/>sible that none of us could examine them,
+<pb n="7" facs="tcp:33560:7"/> tho' several of our Authors he mentions in his Book, were no way inferiour to himself in Learning. Or else, 2<hi>dly,</hi> His Reason why he did not mention them, was because they would do his Cause no kindness: For I am satisfy'd, that the antient and most ap<g ref="char:EOLhyphen"/>proved Authors are directly against him. St. <hi>Augustine</hi> is of another mind in his 2d Book of <hi>Christian Doctrin,</hi> cap. 9. <hi>In iis quae Apertae Scriptura posita, sunt inveniuntur illa omnia quae continent sidem moresque vi<g ref="char:EOLhyphen"/>vendi,</hi>—In those things which are plainly laid down in Scripture, are found all those things which appertain to Faith, and the Rules of Living. This antient Dr. was not of our Pastors mind: For to be <hi>plainly laid down,</hi> and <hi>expressed,</hi> are <hi>Synonimous Terms;</hi> but <hi>Infant-baptism</hi> is neither <hi>expres<g ref="char:EOLhyphen"/>sed,</hi> nor <hi>plainly laid down</hi> in Scripture; so that it doth not appertain either to Faith or Man<g ref="char:EOLhyphen"/>ners. St. <hi>Epiphanius,</hi> who lived about the end of <hi>Century</hi> 4. who Wrote a Catalogue of all the <hi>Heresies</hi> down to his Day, saith thus in that Catalogue: The Cause of their <hi>He<g ref="char:EOLhyphen"/>resies</hi> arises from these <hi>Hereticks</hi> not apply<g ref="char:EOLhyphen"/>ing themselves to Scripture, with a Spirit of Piety: For it is a constant Principle, saith he, that all the saving Truths are found
+<pb facs="tcp:33560:8"/>
+               <hi>clearly</hi> in the Scripture. Now I conceive, to be <hi>found clearly,</hi> is <hi>expresly;</hi> and what can be more express against our Doctor's disin<g ref="char:EOLhyphen"/>genious Suggestion, than this antient Au<g ref="char:EOLhyphen"/>thor? Again, <hi>Tertullian</hi> before him, in his Dispute against <hi>Hermogenes,</hi> cap. 22. <hi>Adoro Scripturae,</hi> &amp;c. <hi>I adore the fulness of Scri<g ref="char:EOLhyphen"/>ptures; let</hi> Hermogenes <hi>demonstrate that it is Written; if it be not Written, let him fear that Woe which is pronounced against those that add, or lessen it.</hi> And in his Book of the <hi>Flesh of Christ,</hi> disputing with that Heretick <hi>Apel<g ref="char:EOLhyphen"/>les,—Non recipio quod extra Scripturam,</hi> &amp;c. <hi>I do not allow of what thou sayest or urgest, that is not in Scripture.</hi> I wonder what kindess any antient Authors would do our Doctor's Cause, for behold, they are generally <hi>express</hi> against him? How doth our Lord declare, that those antient <hi>Hereticks,</hi> the <hi>Saduces,</hi> did <hi>Err, in denying the Resurrection?</hi> They did not <hi>know</hi> the Scriptures: not for <hi>appealing</hi> to 'um. <hi>Luke</hi> 10. 26. Christ asks the <hi>Law<g ref="char:EOLhyphen"/>yer, How readest thou?</hi>—</p>
+            <p>Again, the Dr. saith, <hi>It was the practice of the greatest Hereticks in all Ages of the Church, to appeal to express Scripture.</hi>—I desire to know, what Church he means? But at present I am under a temptation to
+<pb n="9" facs="tcp:33560:8"/> believe he means the Church of <hi>Rome;</hi>
+               <q>First, Because the Heresie of the <hi>Ne<g ref="char:EOLhyphen"/>storians</hi> was, in their <hi>Denying the Blessed</hi> Virgin <hi>to have been the Mother of God.</hi> p. 9. And the <hi>Macedonians</hi> said, <hi>It was no where Written, that the Holy-Ghost was God.</hi>—</q> What our Doctor's Conceptions are in the case, I cannot divine; but I suppose he doth not believe the Virgin <hi>Mary</hi> to have been the Mother of the <hi>Holy-Ghost:</hi> I cannot find, that in his late Discourse on the <hi>Trinity,</hi> he hath such a Conception: Nor do I see how it should be believed, that a <hi>Creature</hi> should be the Mother of the great CREATOR, though She was the Mother of our Lord JESUS, according to the Flesh. And it's most evident, in the Clouds of <hi>Apostacy, General Councils</hi> did Confirm more <hi>Heresies</hi> than they did Condemn; as Learned <hi>Pa<g ref="char:EOLhyphen"/>nermitanus</hi> saith, <q>
+                  <hi>Magis credendom laico si Scripturas adferat, quam Papae, &amp; tota Con<g ref="char:EOLhyphen"/>silia, si absque Scripturis agant.</hi>
+               </q> i. e. We have more reason, to believe a Lay-man, if he brings Scripture, than the Pope, and the whole Council, if they talk without Scripture.—As indeed they did, when they gave <hi>Infants-baptism</hi> it's Sanction in the <hi>Milenetan</hi> Council, 402. <hi>It is our Will, that
+<pb n="10" facs="tcp:33560:9"/> all who affirm young Children have everlasting Life, which are not Baptised to the taking away of Original Sin, shall be</hi> Anathematiz'd. So in the 5th Council of <hi>Carthage, 416. We Will, that whosoever denyeth, that little Chil<g ref="char:EOLhyphen"/>dren by Baptism, are not freed from Perdition, and eternally Saved, that they be accursed.</hi> This was first Confirmed by Pope <hi>Innocent,</hi> with Seventy <hi>Bishops. Our Will,</hi> and <hi>We Will,</hi> was the Original of <hi>Infants-Baptism;</hi> not GOD's Will.</p>
+            <p>And if our Dr. be a <hi>Protestant</hi> then in the Judgment of such a Church, and General Councils, he is a <hi>Heretick</hi> also. And as to what the Doctor is pleas'd to say about the <hi>London</hi>-Conference, <hi>Apr.</hi> 3<seg rend="sup">d.</seg> 1676. I have not perused that, as I can remember, tho' I have read <hi>one</hi> Dispute betwixt a now <hi>Bishop</hi> of the Church of <hi>Engl.</hi> and a <hi>Roman</hi> Gen<g ref="char:EOLhyphen"/>tleman, which I shall have occasion to men<g ref="char:EOLhyphen"/>tion hereafter. But how consistent the Ac<g ref="char:EOLhyphen"/>count the Dr. gives of the Conference he mentions, the Reader may judge, p. 9. 10. of his Book, the <hi>Papists</hi> demanded, <q>Where the Twenty-Eighth Article of our Church was to be read in Scripture, concerning the <hi>Lord's-Supper,</hi>—For as these <hi>Papists</hi> re<g ref="char:EOLhyphen"/>quired <hi>express</hi> Scriptures to prove the <pb n="11" facs="tcp:33560:9"/> Tweny-Eighth Article of our Church, con<g ref="char:EOLhyphen"/>cerning the <hi>Lord's-Supper,</hi> so you, in like manner, demand <hi>express</hi> Scripture for the Twenty-Seventh Article, concerning <hi>Ba<g ref="char:EOLhyphen"/>ptism.</hi> And then he thinks, That the pra<g ref="char:EOLhyphen"/>ctice of these antient <hi>Hereticks,</hi> and modern <hi>Papists,</hi> should abate our Confidence.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> What, Sir, will you make us be<g ref="char:EOLhyphen"/>lieve that your Doctors could not assign an <hi>express</hi> Text of Scripture to prove the <hi>Lord's-Supper,</hi> because you cannot find one to prove <hi>Infant-Sprinkling?</hi> Surely you are mistaken: It must be the Subjects you admit to it, as <hi>Carnal, Ʋnregenerate, Ʋnbaptised</hi> Persons; or your Mode of taking it <hi>Kneeling,</hi> and so <hi>Idolizing</hi> that you know and believe is but <hi>Bread</hi> and <hi>Wine,</hi> &amp;c. For any Boy would have told them the <hi>Lord's-Supper</hi> is expresly mentioned in 1 <hi>Cor.</hi> 11. 20. and elsewhere. Now Sir, if this tends no more to abate your Confidence in so bad a Cause, then ours in so <hi>Good</hi> a one, you may expect more in order to do it hereafter: but let this suffice at present; and know it's not <hi>Heretical</hi> to <hi>ap<g ref="char:EOLhyphen"/>peal</hi> to <hi>express</hi> Scripture for Confirmation of Gospel-Ordinances.</p>
+            <p>
+               <hi>Dr.</hi> p. 12. saith, <q>We do something in the Worship of God without an <hi>express</hi> Com<g ref="char:EOLhyphen"/>mand.</q>
+               <pb n="12" facs="tcp:33560:10"/> Then he tells us, <q>That we are accused to reject the Lord's Day:</q> Is that so?</p>
+            <p>
+               <hi>Reply.</hi> Surely our affectionate Pastor should know that without taking the place of an Inquisitor; doth he not <hi>Feed</hi> us on that Day?—Well, we do as duly observe that Day as himself, from the <hi>Apostles</hi> Example.</p>
+            <p>The Dr. tells us, p. 13. That there is no Command to keep it in the Gospel of our Lord Jesus. But he asks, Why we do not keep the <hi>Seventh Day Sabbath.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Because the great <hi>Law-giver</hi> to the Gospel Church hath not commanded us to keep it: They that were bound to keep the <hi>Seventh day Sabbath,</hi> were by the the same Law-giver bound to reverence the Sanctu<g ref="char:EOLhyphen"/>ary, and keep the Seventh Year <hi>Sabbath.</hi>
+            </p>
+            <p>
+               <hi>Dr.</hi> p. 14. Asks, <q>If the Apostles Ex<g ref="char:EOLhyphen"/>ample is a Rule to us?</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> Yes; we are obliged to walk as we have them for an Example. What then?</p>
+            <p>Then the Dr. casts a Scoff on the <hi>Pri<g ref="char:EOLhyphen"/>mitive Christians,</hi> and saith; <hi>We must turn Levellers, and have all things common.</hi> Acts 2. 44, 45. <hi>Acts</hi> 4. 32. See here, <hi>saith he,</hi> a most plain and clear example for Community of Goods. <q>But can you think yourselves
+<pb facs="tcp:33560:10"/> obliged from this Example of the Apo<g ref="char:EOLhyphen"/>stle's, and primitive Believers, to Sell your Estates, and distribute them to others, as every Man hath need, doubtless your poor Neighbours would be very well con<g ref="char:EOLhyphen"/>tented to Share with you; but your rich Landlords, that expect the payment of your Rents, would not like such Pro<g ref="char:EOLhyphen"/>ceedings.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> Lest the Doctor should be too fond of this Instance, and magnify his Mole-hill, to use his own Phrase, I shall, if possible, put a Check upon his concei<g ref="char:EOLhyphen"/>ted Confidence: I say, it would be ex<g ref="char:EOLhyphen"/>ceeding commendable in the Churches of Christ on the like occasion, to follow this Primitive Example.</p>
+            <p>First, The <hi>Con-Text</hi> shews that they were Baptised <hi>Believers,</hi> and intire <hi>Lovers</hi> of one another; for they were of <hi>one Heart,</hi> and <hi>one Soul, Acts, 2. 41. Acts,</hi> 4. 32. And,</p>
+            <p>Secondly; <hi>Ecclesiastical</hi> History declares, and so saith many of the <hi>Learned,</hi> That these Christians at <hi>Jerusalem,</hi> were very apprehensive of the near approach of a sore <hi>Persecution;</hi> so that they could not say what they Possessed was their own; and
+<pb n="14" facs="tcp:33560:11"/> therefore they chose to Sell their <hi>Possessions,</hi> and make a Common Stock, rather than to be spoiled of their Sub<g ref="char:EOLhyphen"/>stance by cruel <hi>Persecutors:</hi> So that now the Poor, that had owned the same <hi>Lord, Faith,</hi> and <hi>Baptism,</hi> may be partakers with them in their <hi>Creature-Comforts,</hi> not as <hi>Levellers,</hi> but as every one had need.—And truly it is not long since the <hi>Baptised</hi> Churches of Christ were in the like State by cruel <hi>Persecutors</hi> here in <hi>England,</hi> that they could not say what they possessed was their own, but their Bodies and Goods were hawled a<g ref="char:EOLhyphen"/>way; to the Renown of our <hi>National Church</hi> be it spoken! But Thanks be to God, &amp; His Majesty K. <hi>WILLIAM,</hi> 'tis otherwise now.</p>
+            <p>But were our insulting Monitor so well acquainted with Antient Writings as he pretends, he might have found in <hi>Tertul. Apol.</hi> cap. 29. The Christians did so on the like occasion in his Days. And those that have read the Histories of the <hi>Ʋnited</hi> Provinces, will find that the <hi>Baptised Chri<g ref="char:EOLhyphen"/>stians</hi> did so on the like occasion; that they dwelt in <hi>Colleges,</hi> and had a <hi>Stock,</hi> that the Poor might partake of, not as <hi>Levellers,</hi> but as every Man had need. But, alas! our Non-Resident Doctors, with their plurality
+<pb facs="tcp:33560:11"/> of <hi>Benefits,</hi> cannot endure to hear of such a Doctrin; for then they would for shame part with one to a poor <hi>Curate:</hi> O but this is far from them! for they had rather In<g ref="char:EOLhyphen"/>gross, and Monopolize <hi>more;</hi> for they have a peculiar Faculty to be more affected with <hi>Sheering</hi> than <hi>Feeding</hi> their Flock.—But I had not thus retorted, but fearing my Antagonist should be Wise in his own Conceit, in producing this Instance to baf<g ref="char:EOLhyphen"/>fle an Example for Gospel-Worship.—p. 15. the Dr. doth Reason Learnedly thus; <q>If all Scripture-Examples do not oblige, as most plainly appears from this Instance, then 'tis impertinent to urge the Apostle's Example, as having the force of an express Command.</q>—As if the Dr. should have said, If all Scripture-Examples do not oblige, then none do: And tho' an Example may not be looked upon with that force as an express Command; yet we will accept of Gospel-Example for <hi>Infants-baptism,</hi> would the Dr. be so kind as give it us: But we must not urge him, lest he counts us un<g ref="char:EOLhyphen"/>reasonable.</p>
+            <p>But after the Dr. hath spent two Pages, in tossing about the business of the <hi>Sabbath,</hi> or <hi>First-day</hi> being Commanded, with many <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:33560:12"/> the matter of Fact is justly Questionable; those Reports are supposed by the most Impartial, to be raised by malicious <hi>Pa<g ref="char:EOLhyphen"/>pists;</hi> who spake as bad things of <hi>Calvin</hi> and <hi>Luther,</hi> and the <hi>Waldenses</hi> before them, which Slanders were received by some in<g ref="char:EOLhyphen"/>veterate Protestants, as Mr. <hi>Ross</hi> and his Brother <hi>Edwards</hi> in his <hi>Gangrena,</hi> in their abominable <hi>Forgeries,</hi> two fresh to be for<g ref="char:EOLhyphen"/>gotten. But were this true, I would fain know how this affects the Doctors dis<g ref="char:EOLhyphen"/>senting Parishoners, or any in his Parish. Now observe how disingeniously the Dr. insinuates; he frames a Parishoner to An<g ref="char:EOLhyphen"/>swer <q>
+                  <hi>We are now better inlightned, as ap<g ref="char:EOLhyphen"/>pears from our</hi> Confession of Faith, <hi>&amp;c.</hi>
+               </q> O then he appears in a Rapture of Joy, as tho' he had gained some <hi>Olympick</hi> Prize! <q>I am glad <hi>(saith he)</hi> you are so much re<g ref="char:EOLhyphen"/>formed, as to Renounce those <hi>Munster</hi>-Delusions.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> And when the Doctor's passion of Joy is a little over, I shall ask him a Question or two: First, Sir, Do you not know that the Church of <hi>Christ,</hi> at <hi>Corinth,</hi> had imbra<g ref="char:EOLhyphen"/>ced some wild Doctrines, as dispencing with Incest, and denying the Resurrection of the Dead? Would it, I Pray, have been pro<g ref="char:EOLhyphen"/>per,
+<pb facs="tcp:33560:12"/> and ingenious, for the Pastor of the Ch. at <hi>Jerusalem,</hi> to acquaint his Flock, that he is glad they have laid aside or renounced the <hi>Corinth-delusions?</hi> Which indeed they had never owned or imbraced. Secondly, But Sir, if I may be so bold, I would attempt a little to check your great Confidence: I have been informed, that many of the Ch. of <hi>Engl.</hi> have lately not only been Accused, but justly Condemned and Executed as Traitors against His Sacred Majesty and the Government: Is it so, or not? It's too Notorious to be denyed. But ought this to be Returned, or Charged upon the <hi>Paedo-Baptists</hi> in the Parish of <hi>Beckenham?</hi> Surely, No; that is not fair. And besides, they were taught in the late Reign of K. <hi>J.</hi> that <hi>Loyalty was the best Religion;</hi> tho' I can<g ref="char:EOLhyphen"/>not find this amongst the Dr's Catalogue of Books:—<hi>But every thing</hi> (saith Wise <hi>So<g ref="char:EOLhyphen"/>lomon) is beautiful in it's time.</hi>—But I sup<g ref="char:EOLhyphen"/>pose, it might have been as much Wisdom in the Dr. to have spared his <hi>Munster</hi>-Story; for he may know we can give them <hi>Argu<g ref="char:EOLhyphen"/>mentum Adhominum,</hi> Twenty for One, it need be: and these Arguments of our Dr. will hardly be Convincing.</p>
+            <pb facs="tcp:33560:13"/>
+            <p>To proceed, the Dr. spends several Pa<g ref="char:EOLhyphen"/>ges to Ballance Accounts with us: and to shew that there is no need of Gospel-proof for Infant-baptism, because there is none for taking an Oath, and putting the <hi>Hand</hi> on the <hi>Book;</hi> which is a Legal or Politick practice amongst Men, for ending of Strife, but is no part of Gospel-worship. So that it seems if there be no Gospel Law, or Command for Swearing, and <hi>handling the Book,</hi> there needs none for the great Ordinances of the Gospel: Strange Divinity! p. 23. <q>But, saith the Dr. if you could prove this Civil and Legal Swearing; yet, pray, where are you Com<g ref="char:EOLhyphen"/>manded to lay your <hi>Hand on the Book,</hi> and <hi>kiss</hi> the <hi>Book:</hi> Now he tells us we may well be Silent.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> I could Wish there were no oc<g ref="char:EOLhyphen"/>casion for Testimonial, or for Promiscary Oaths; which were men more faithful to each other, there would not, but I would fain know what all this tends to the Proof of <hi>Infants-Baptism;</hi> which is the Dr's Bu<g ref="char:EOLhyphen"/>siness. What! because we may promise Fidelity to each other, and may witness to Truth, in matters of Controversie, if barely from human Authority in Civil matters, not Gospel-worship, then we may Baptise
+<pb n="21" facs="tcp:33560:13"/> our Infants, or rather <hi>Rantize</hi> them from that Authority. I take this to be our Dr's way <hi>of Reasoning:</hi> and if in our civil Customs we put our Hands on the Book and Kiss it, then we may Christen <hi>Infants</hi> with Gossips, and the Sign of the <hi>Cross.</hi> Then if a <hi>Lord-Mayor</hi> may be impowred by Civil <hi>Authority, ergo,</hi> So may a <hi>Lord-Bishop:</hi> Then Sir, I will grant your Infant-baptism is a humane Custom, and that is, I think, as much as you contend for.</p>
+            <p>Next, the Dr. requires an express Com<g ref="char:EOLhyphen"/>mand for giving the <hi>Communion</hi> to Women, p. 26. when he knows 1 <hi>Cor.</hi> 11. 28. the <hi>Greek</hi> expresseth it not <hi>Consequentially,</hi> but <hi>let,</hi> or <hi>I require; and not I, but the Lord also, that a Man or a Woman do examin themselves, and so eat,</hi> &amp;c. it being in the <hi>common Gender.</hi> Let the Dr. give us a <hi>Greek</hi> Text that saith, <hi>Let a Minister baptise an Infant,</hi> and we'll be satisfied, and baptise our Infants: But there is none. But p. 29. The Dr. tells us, there is no Command for it; and I shall here mention what the Learned Dr. <hi>Owen</hi> a <hi>Pae<g ref="char:EOLhyphen"/>dobaptist</hi> saith, in his Answer to <hi>Parker,</hi> in p. 345. he calls such trifling stuff, as our Dr. urgeth, <hi>a Capticious, Sophistical Tale, by which ten thousand things may be made lawful.</hi>
+               <pb n="22" facs="tcp:33560:14"/> And a little further he saith, <hi>That everything esteemed as part of Divine Worship, that is not Commanded, is Forbidden.</hi> So that I fairly conclude, That if Infant-baptism be esteem<g ref="char:EOLhyphen"/>ed part of Divine Worship, it is Forbidden; because the Dr. <hi>p.</hi> 29. and <hi>Paedo-baptists</hi> do fre<g ref="char:EOLhyphen"/>quently grant there is no Command in Scri<g ref="char:EOLhyphen"/>pture for it: And then, let <hi>Paedo-baptists</hi> consider, <hi>Jer. 32. 25. Deut.</hi> 18. 20. And yet, p. 33. <q>The Dr. doubts not our <hi>Con<g ref="char:EOLhyphen"/>viction,</hi> if we will lay aside our <hi>Ignorance</hi> and <hi>Prejudice,</hi>—and he earnestly begs us to lay them aside by all means, and then he promises to endeavour to Convince us, not by unwarrantable Suppositions, but by na<g ref="char:EOLhyphen"/>tural and necessary Consequences from the Scriptures, that it is not only Lawful, but also our Duty to baptise our Infants.—And because he designs to be as Brief as possible, he will only insist on this one Argument.</q>
+            </p>
+            <p>Well Sir, we assure you we have no Pre<g ref="char:EOLhyphen"/>judice against your Person, or Gospel-<hi>Truths.</hi> You are pleased to grant in your <hi>Preface,</hi> p. 7. that we have been kind and loving Pa<g ref="char:EOLhyphen"/>rishoners,—and whereas you fear our Igno<g ref="char:EOLhyphen"/>rance, I assure you, if we are so, it is not vo<g ref="char:EOLhyphen"/>luntary; and I do hereby Promise you, to
+<pb facs="tcp:33560:14"/> recede from either <hi>Prejudices</hi> or <hi>Ignorance,</hi> when discovered, and shall be thankful to you for such Convictions;—for I grant <hi>The Priest's lips should keep Knowledge, and they should seek the Law at his Mouth.</hi> Mal. 2. 7. 8. But if it appears they are departed out of the way, we shall chuse rather to take St. <hi>Chrysostom</hi>'s Counsel;—<hi>Not to regard what this or that Man saith, but enquire all things of the Scripture.</hi> Hom. 13. 2 <hi>Cor:</hi>—</p>
+            <p>The Dr. lays down his Argument thus framed, <q>All those who ought to be admit<g ref="char:EOLhyphen"/>ted visible Church-Members, ordinarily ought to be Baptised.</q>
+            </p>
+            <p>
+               <q>But some Infants ought to be admitted visible Church-Members; therefore some Infants ordinarily ought to be Baptised.</q>
+            </p>
+            <p>And the Dr. that he may remove our <hi>Ig<g ref="char:EOLhyphen"/>norance,</hi> declares, <q>That this Argument doth consist of two <hi>Premises,</hi> and a <hi>Conclusion;</hi> and the reason is, because all Hypothetical <hi>Sylogisms,</hi> have just so many parts,—ex<g ref="char:EOLhyphen"/>cept they be Lame.</q> So that is all one as if he had declared to the World, <hi>That his Horse had got four Legs, however it came a<g ref="char:EOLhyphen"/>bout.</hi>
+            </p>
+            <p>Well Sir, the <hi>Major</hi> is freely granted: for we all agree, that <hi>Baptism</hi> is the <hi>initiating</hi>
+               <pb facs="tcp:33560:15"/> Ordinance into the Gospel-Church: and it was undoubtedly the <hi>Door</hi> of <hi>Admission,</hi> and <hi>Enterance</hi> into the Visible Church; and that the right of <hi>Member-ship</hi> comes in by <hi>Baptism.</hi>
+            </p>
+            <p>But, p. 35. The Dr. saith, <q>He shall conclude this Particular with an Argument of Mr. <hi>Baxter</hi>'s, thus framed; <q>If there be neither <hi>Precept,</hi> nor <hi>Example</hi> of admitting Church-Members in all the <hi>New-Testament</hi> but by <hi>Baptism,</hi> then all that are now ad<g ref="char:EOLhyphen"/>mitted, ought to come in by <hi>Baptism:</hi> But there is neither <hi>Precept</hi> nor <hi>Example</hi> of ad<g ref="char:EOLhyphen"/>mitting Church-members in all the New-Testament but by <hi>Baptism,</hi> therefore they ought to come in the same way now.</q>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> I do not a little wonder the Dr. should spend two or three Pages to prove a <hi>major,</hi> which no body denies except a <hi>Quaker;</hi> and when all is done, it doth his Cause no Kindness at all, the <hi>minor</hi> being positively deny'd, if he means visible Church members of a Church of Christ. p. 36. I shall confute his <hi>minor</hi> by this Argument: If there be neither <hi>Precept,</hi> nor <hi>Example</hi> in all the New-Testament, for admitting <hi>In<g ref="char:EOLhyphen"/>fants</hi> to Church-member-ship by <hi>Baptism,</hi> then they ought not to be so admitted now; but there is neither <hi>Precept</hi> nor <hi>Example</hi> in
+<pb facs="tcp:33560:15"/> all the New-Testament, for admitting <hi>In<g ref="char:EOLhyphen"/>fants</hi> to Church-member-ship by <hi>Baptism;</hi> therefore they ought not to be so admit<g ref="char:EOLhyphen"/>ted now.</p>
+            <p>None can deny the <hi>major,</hi> except a <hi>Pa<g ref="char:EOLhyphen"/>pist,</hi> as a <hi>popish Priest</hi> confest to a Minister of the <hi>Baptised Way:</hi> Saith he, <hi>There is in<g ref="char:EOLhyphen"/>deed no Scripture for Baptising of Infants, but yet it ought to be done, because the Church hath Commanded it.</hi> This was a true, and ingenious Consession.</p>
+            <p>And my <hi>minor,</hi> That there is no such <hi>Precept</hi> nor <hi>Example</hi> for <hi>Infant's</hi> admission by <hi>Baptism,</hi> as the Dr. hath not assigned either: So it is the ingenious, and almost general Confession of <hi>Paedo-baptists,</hi> that there is neither <hi>Precept</hi> nor <hi>Example</hi> to be assigned in Scripture for it; but that the Scripture is totally Silent as to any such a Practice.</p>
+            <p>And since the Dr. hath given us One of Mr. <hi>Baxter</hi>'s Arguments to prove his <hi>major,</hi> I shall return him Two of them to Confute his <hi>minor:</hi>
+            </p>
+            <p n="1">1. Mr. <hi>Baxter</hi> saith, <hi>If there can be no Example given in Scripture of any one that was Baptised without the profession of Saving Faith, nor any Precept for so doing, then must not we
+<pb facs="tcp:33560:16"/> Baptise any without it: But the Antecedent is true, therefore so is the Consequence.</hi>
+            </p>
+            <p>I ask the Dr. whether he can Chalenge this Argument of Mr. <hi>Baxter</hi>'s to be in<g ref="char:EOLhyphen"/>concludent of Truth? And if not, it ex<g ref="char:EOLhyphen"/>presly <hi>Confutes</hi> his Cause.</p>
+            <p n="2">2. Again: <hi>If it be the appointed use of all Christian-Baptism, to solemnize our Marriage with Christ; or to seal and confirm our Ʋnion with him, then must we baptise none that profess not Justifying Faith: But the Antecedent and Consequent are both evident:</hi> Gal. 3. 26, 27, 28, 29. Thus Mr. <hi>Baxter.</hi>
+            </p>
+            <p>To which the Testimony of Dr. <hi>Ha<g ref="char:EOLhyphen"/>mond</hi> agrees, <hi>That all Men were instructed in the Fundamentals of Faith antiently before they were permitted to be baptised.</hi> So that <hi>Paedo-baptists</hi> are evidently Self-condemned in this their practice. But to proceed:</p>
+            <p>Pag. 37. <q>We being such an ignorant People, the Dr. Questions whether we un<g ref="char:EOLhyphen"/>derstand the Terms of his <hi>Proposition,</hi> and do rightly apprehend what it is to be ad<g ref="char:EOLhyphen"/>mitted a visible Church-member.</q> And to Answer his Demand, he sets up a nameless Parishoner, which he makes to speak as he would have him, thus; <q>
+                  <hi>He that knows what it is to be a Member of a Family, a Corpora<g ref="char:EOLhyphen"/>tion,
+<pb n="27" facs="tcp:33560:16"/> or any other Society; he who enjoys the Priviledges and Franchises of any Corporation, such a Person is properly a Member,</hi> &amp;c.</q> And then the Dr. supposeth we will grant, <q>that he who hath a <hi>right</hi> and <hi>title</hi> to the Bles<g ref="char:EOLhyphen"/>sings and Promises of the Gospel, such a Person ought to be acknowledged as a Member of that Spiritual Society we call a <hi>Church.</hi>
+               </q> Then he mentions Mr. <hi>Oliff</hi>'s Defence of <hi>Infants-baptism,</hi> who jumps in a judgment with him, and his strange Fit of Dictating. And in p. 39. He saith, <q>I hope you Competently understand it: it's answered by his Parishoner; I think I do.</q>
+            </p>
+            <p>Though for my part, as wise and under<g ref="char:EOLhyphen"/>standing a Person as our Dr. is, I question whether he doth so understand it as to re<g ref="char:EOLhyphen"/>concile what he hath said with it self, so as to consist with his Practice: For,</p>
+            <p>First, The Members of a Family have right to the Provision of the <hi>House,</hi> as <hi>Meat</hi> and <hi>Drink,</hi> &amp;c. can freely go to the <hi>Table,</hi> and partake thereof: But <hi>Infants,</hi> when they are made <hi>Members</hi> of that the Dr. calls a <hi>Church,</hi> they must neither <hi>Eat</hi> nor <hi>Drink</hi> at the <hi>Table.</hi> So that from hence here is a fair <hi>Inference</hi> against his Practice he con<g ref="char:EOLhyphen"/>tends for.</p>
+            <pb facs="tcp:33560:17"/>
+            <p> Secondly, He that is admitted a Member of a Corporation, takes his freedom by vir<g ref="char:EOLhyphen"/>tue of a Legal Charter, Ratified and Confir<g ref="char:EOLhyphen"/>med by the Sovereign's Power: But there is no Legal Charter by a Divine Law to admit Infants Members of a Gospel-Soci<g ref="char:EOLhyphen"/>ety, as hath been already shewed; there is no Clause for it in the great Charter of the Gospel.</p>
+            <p>But to proceed, p. 39, 40. The D. saith, <q>If no Infants ought to be admitted visible Church-members, then the reason must be either,</q>
+            </p>
+            <p>
+               <q>First, Because Infants are not capable of being admitted visible Church-members; Or else,</q>
+            </p>
+            <p>
+               <q>Secondly, Because it is no Benefit or Advantage to Infants so to be admitted, Or else,</q>
+            </p>
+            <p>
+               <q>Thirdly, Because Christ the great Law-giver to the Gospel-Church hath declared he will not admit them.</q> This is the <hi>ma<g ref="char:EOLhyphen"/>jor</hi> of his Argument: His <hi>affirmative</hi> is, <q>That none of these Particulars can be <hi>af<g ref="char:EOLhyphen"/>firmed.</hi> His <hi>conclusion</hi> is, Therefore some Infants ought to be admitted visible Church-members.</q>
+            </p>
+            <pb facs="tcp:33560:17"/>
+            <p>
+               <hi>Reply.</hi> And first I deny your <hi>major,</hi> or the consequence of your <hi>major,</hi> whether you please to call it: For I say there is a<g ref="char:EOLhyphen"/>nother great Reason why <hi>Infants</hi> are not to be admitted Church-members by <hi>Ba<g ref="char:EOLhyphen"/>ptism,</hi> and that because there is no Command nor Example for it, as hath been fully shew<g ref="char:EOLhyphen"/>ed before: There is no Precept nor Presi<g ref="char:EOLhyphen"/>dent for it in the Gospel of our Lord Jesus.</p>
+            <p n="1">1. I Deny that Infants are capable of be<g ref="char:EOLhyphen"/>ing admitted visible Church-members of a Gospel-Church of Christ.</p>
+            <p n="2">2. I Deny that it's any Benefit or Ad<g ref="char:EOLhyphen"/>vantage to Infants, as such, to be admitted Church-members.</p>
+            <p n="3">3. I say, That Christ the great Law-gi<g ref="char:EOLhyphen"/>ver to the Gospel-Church hath not declared he will not admit of the Infants of <hi>Jews, Turks,</hi> or <hi>Pagans.</hi>—I demand whether our Dr. would therefore baptise them? I sup<g ref="char:EOLhyphen"/>pose he would not: Yet our Lord hath not said, <hi>Ye shall not.</hi>
+            </p>
+            <p>Dr. p. 41. Demands, <q>Whether we can pretend that <hi>Infants</hi> are not capable to be admitted visible Church-members.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> They are not capable in their In<g ref="char:EOLhyphen"/>fant state.</p>
+            <pb facs="tcp:33560:18"/>
+            <p> Dr. <q>I pray answer me this short Que<g ref="char:EOLhyphen"/>stion, <hi>Were not Infants Members of the</hi> Jewish <hi>Church?</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> That Children were Members of the <hi>Jewish</hi> Church is granted: And what then?</p>
+            <p>Dr. <q>Why, <hi>Then are they not likewise capable to be admitted Members of the Chri<g ref="char:EOLhyphen"/>stian Church?</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> No by no means: Because by rea<g ref="char:EOLhyphen"/>son of the tenderness of Age, they cannot Repent nor Believe; which are the ante<g ref="char:EOLhyphen"/>cedent Qualifications: Not as the Dr. wou'd perswade us, <hi>p.</hi> 45. That Service and Obedi<g ref="char:EOLhyphen"/>ence vowed and promised on man's part, <hi>will</hi> serve turn; but there <hi>must</hi> be visible &amp; actual Faith, and Repentance, or there is no ad<g ref="char:EOLhyphen"/>mission to Gospel-Church-membership: And moreover, it is evident, <hi>that without Faith, it's impossible to please God, in any Gospel-Service.</hi> But behold! none of these Qualifications of <hi>Repentance, Faith, Self-Ex<g ref="char:EOLhyphen"/>amination, Self-denial,</hi> &amp;c. was required of persons, to qualify them for that Fleshly Rite of <hi>Circumcision:</hi> And this in short may sufficiently confute his Consequence, <hi>That because Infants were Members of the</hi> Jewish <hi>Church, and were capable of having Carnal-Or<g ref="char:EOLhyphen"/>dinances
+<pb facs="tcp:33560:18"/> imposed on them, therefore they are ca<g ref="char:EOLhyphen"/>pable of Gospel-Church-membership, and to par<g ref="char:EOLhyphen"/>take of Spiritual Ordinance without the least de<g ref="char:EOLhyphen"/>gree of Spiritual Ʋnderstanding.</hi>
+            </p>
+            <p>But p. 44. 45, 46. The Dr. is pleased to enter into a strange Fit of Dictating, he saith, <q>Did we either consider the nature of <hi>Church-membership,</hi> or the different Ca<g ref="char:EOLhyphen"/>pacities of <hi>Church-members,</hi> we would not talk at this confident rate. p. 45. He saith, he must remind us, that there are two sorts of <hi>Church-members</hi> under the Gospel, as well as under the Law. And in the same Page he saith, It must be granted by him, that there are several conditions of <hi>Church-mem<g ref="char:EOLhyphen"/>bership,</hi> wholly inconsistant with this <hi>In<g ref="char:EOLhyphen"/>fant</hi> state.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> Sir, I thought I had discussed this point before, and had made it appear that we are not so Ignorant of the true notion of <hi>Church-membership</hi> as you suppose; for according to your 19th Article, <hi>We be<g ref="char:EOLhyphen"/>lieve the visible Church of Christ to be a Congregation of faithful Men; in the</hi> com<g ref="char:EOLhyphen"/>mon Gender, <hi>Men and Women; in the which the pure Word of GOD is Preached, and the Sacraments duly administred accor<g ref="char:EOLhyphen"/>ding to Christ's Ordinance in all those things
+<pb facs="tcp:33560:19"/> that are requisite, and necessary to</hi> Salvation. So that, Sir, I believe a Gospel-Church-member to be a <hi>Faithful</hi> Man or Wo<g ref="char:EOLhyphen"/>man, that hath put on Christ by <hi>Baptism,</hi> and walks according to that Sacred Pro<g ref="char:EOLhyphen"/>fession, in Holiness and Newness of Life.</p>
+            <p>Pag. 46. 47. The Dr. saith, <q>There are Primarily, and Principal Church-members, adult Persons, Men and Wo<g ref="char:EOLhyphen"/>men, that are capable to receive the <hi>Word</hi> gladly, <hi>Acts,</hi> 2. Such as the <hi>Samaritans,</hi> and the <hi>Eunuch, Acts,</hi> 8. and the <hi>Jaylor, Acts,</hi> 16. That they did first <hi>Believe, Repent,</hi> and then by <hi>Baptism,</hi> were ad<g ref="char:EOLhyphen"/>mitted Church-members. Such Passages as these are only to be applied to the Adult Persons, Men and Women, of Ca<g ref="char:EOLhyphen"/>pacity and Understanding, but cannot in the least concern Infants.</q> Thus far the Doctor.</p>
+            <p>
+               <hi>Reply.</hi> And these are all that either your 19th Article mentions, or the New-Testa<g ref="char:EOLhyphen"/>ment; a <hi>Church</hi> is a Congregation of <hi>Faith<g ref="char:EOLhyphen"/>ful</hi> Men, <hi>&amp;c.</hi> and I am sure there are no other degrees of Church-members spoke of in the Gospel of our Lord Jesus: Now how he makes up his two Sorts, p. 45. or two Species, p. 50. of <hi>Church-members</hi>
+               <pb facs="tcp:33560:19"/> I know no other Sorts, or species, but Believing Men, and believing Women: Here is two Sects.</p>
+            <p>But p. 46. the <hi>Dr.</hi> saith, <q>There are a more imperfect sort of Church-members; such are In<g ref="char:EOLhyphen"/>fants, as also Adult persons, that are born Deaf, and Dumb, and are uncapable of Instructions; all these are only passive Church-members.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> The <hi>Dr.</hi> might have multiplyed his Sorts and Sizes of Church-members; as the illegitimate Bastards, and natural Idiots, born Fools, void of Reason; which are all Baptised-members on their accounts: For all is <hi>Fish</hi> as comes to the <hi>Net:</hi> But I would fain know, What way the <hi>Dr.</hi> will take to make us believe what he saith is true? Hath he no demonstrations but his bare <hi>Ipsedixits?</hi> or only our Ignorance, or Prejudice that obstructs our receiving it on his bare Word? But <hi>Sine Authoritate Scripturarum Garrulitias non habet fi<g ref="char:EOLhyphen"/>dem.</hi>—Without the Authority of the Scripture pratleing gains no Credit. We deny that Infants are in any sense capable of Gospel-church-mem<g ref="char:EOLhyphen"/>ber-ship.</p>
+            <p>p. 47. The <hi>Dr.</hi> saith, <q>Those Texts, that speak of Repentance and Faith, to qualifie for Baptism, are to be applyed to the Adult, not to Infants, that are not capable of them: But, saith he, such mis-application is a grand Fundamental mi<g ref="char:EOLhyphen"/>stake of your Party, and for Conviction, he must desire us to consider, that the meaning of such indifinite Expressions is to be judged of from the Nature and Capacity of those Persons, to whom they are spoken: It's an Apostolical Command, saith the <hi>Dr.</hi> that if any Man would not Work, Neither should he Eat. 2. <hi>Thes.</hi> 3. 10.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here the <hi>Dr.</hi> saith well, That all those Texts that speak of Faith and Repentance, to
+<pb facs="tcp:33560:20"/> qualifie for Baptism, are only applicable to the <hi>A<g ref="char:EOLhyphen"/>dult:</hi> It's very true, Sir, and so are all the Texts that speak of Baptism and Church-member-ship; So that there is neither Repentance, Faith, nor Baptism, required of Infants, Fools Bastards, Deaf <hi>&amp;c.</hi> in the Gospel of our Lord Jesus. But to return what the <hi>Dr.</hi> charges, on himself, I fear it's not a mi<g ref="char:EOLhyphen"/>stake, but a wilful Error in the Pedobaptists; in supporting their mere humane Tradition by the mis-application of those Sacred Oracles. And A<g ref="char:EOLhyphen"/>las! when Men have strained their Wits, and Racked their Brains to draw Consequences from Scriptures for Infants Baptism; they are no more Natural than for a <hi>Papist</hi> to argue thus, <hi>Mat.</hi> 16. 19. Christ gave <hi>Peter</hi> the <hi>Keys</hi> of the Kingdom of Heaven; therefore the <hi>Pope</hi> may sell as many Pardons for Money, and Damn and Save as many Souls as he pleases, being <hi>Peter</hi>'s Suc<g ref="char:EOLhyphen"/>cessor.</p>
+            <p>
+               <q>But, to proceed, p. 48. the <hi>Dr.</hi> supposes that some Brain-sick <hi>Enthusiast</hi> should thus argue from 2. <hi>Thes.</hi> 3. 10. Infants cannot Work, therefore they must not Eat, Old, Impotent, and Bed-rid Persons cannot Work, therefore they must Starve. This doth only forbid the relief of Idle Lubburs and Lazy Drones, who can Work, but will not; but it doth not prohibit relief of Children, or such Weak and Aged as cannot Work.—Now, saith the <hi>Dr.</hi> you have answered your self, and saith he, in like manner it is apparent that Faith, Re<g ref="char:EOLhyphen"/>pentance, and Obedience, are only required of Adult Persons who are able to perform them: Not Infants, who are not capable of them.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> I think that the <hi>Dr.</hi> hath in a few words answered all his own Pretences, and given away his Cause; for, Behold there is nothing more e<g ref="char:EOLhyphen"/>vident
+<pb facs="tcp:33560:20"/> than that Baptism is a work of Obedience; an active Subjecting to the Command. I shall by this one Argument, return upon the <hi>Dr.</hi> the pro<g ref="char:EOLhyphen"/>per Conclusion from his Concession.</p>
+            <p>If Infants are not capable of Obedience, then Infants ought not to be Baptised; but the <hi>Dr.</hi> saith, Infants are not capable of Obedience; there<g ref="char:EOLhyphen"/>fore Infants ought not to be Baptised.</p>
+            <p>For as it's great Weakness to suppose that Text, <hi>He that would not work, shall not Eat,</hi> to intend or include infants: So it is as great weakness to suppose any other Gospel-Text that mentions Church-member-ship or Baptism, should intend or include Infants: Thus have I shewed that Infants are not capable of Church-member-ship or Baptism.</p>
+            <p>2. I proceed to examine what the Priviledges are the <hi>Dr.</hi> talks of, that will redown to Infants, by their Church-member-ship.</p>
+            <p>1. I have already shewed they have no Fellow<g ref="char:EOLhyphen"/>ship or right of Communion at the Lord'<hi>s</hi>-Table; they enjoy no more Priviledges in the Church, while Infants, after, than before: So that here is no Advantage to them; upon this account.</p>
+            <p>The <hi>Dr.</hi> p. 60, 61. As to what he mentions of being taken into God's house, and Family, I have briefly answered before.</p>
+            <p n="1">1. I deny that Infants have Pardon of Sin by their pretended Baptism: Not of <hi>Actual</hi> Sin, for they have committed none, and such as have par<g ref="char:EOLhyphen"/>don of Sin have it upon their Repentance, which Children cannot do. And sure he doth not mean <hi>Original</hi> Sin; for they are under that, equally after, as before their Baptism; tho' this was assigned as the use of it, when it was first decreed in the Councils aforesaid; yet of late most <hi>Pedobaptists</hi> have learned to be wiser than so.</p>
+            <pb facs="tcp:33560:21"/>
+            <p> And as for Infants eternal inheritance in the Next Life, it's not on that Score, no conditions being required for Infants Salvation; they having never Acted Sin, are by our Saviour pronounced Heirs of the Kingdom of Heaven; as the <hi>Dr.</hi> grants p. 71. And Our Gracious God hath not put the eternal State of Infants into the Hands of Vain Man.</p>
+            <p>The <hi>Dr.</hi> spends no less than the Substance of many Pages about the order of Words, in <hi>Mat.</hi> 28. 19, 20. <hi>Mark,</hi> 16. 16. One had need be as Grave as a <hi>Judge,</hi> that can forbear smiling; to observe the <hi>Dr</hi>'s. frivolous Evasions: Because the Order of Words is not to be looked upon in some Texts, therefore in none; <hi>Ezek.</hi> 14. 14. <hi>Daniel</hi> is named before <hi>Job; Mark, 1. 4. John</hi> preached the Baptism of Repentance, <hi>&amp;c.</hi>
+               <q>Ob<g ref="char:EOLhyphen"/>serve, 1. Baptised, and then preached the Baptism of Repentance. <hi>Gal. 5. 22. Joy</hi> and <hi>Peace</hi> are mentioned before Faith, <hi>&amp;c. Mark,</hi> 4. 5. Take notice, first you have his Baptising, and then their Confession.—</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> Doth the <hi>Dr.</hi> suppose they were Infants that went out to him? Or, doth he suppose he Bap<g ref="char:EOLhyphen"/>tised those that went out before his Preaching, or their Confession? He dare not say it: But I shall briefly Dispatch this: the <hi>Dr.</hi> knows the <hi>Pro<g ref="char:EOLhyphen"/>noun [them]</hi> that is put after the [Participle] <hi>Baptise;</hi> can possibly have no other <hi>Substantive,</hi> than those persons that were first capable of teach<g ref="char:EOLhyphen"/>ing; In the Parralel Text, <hi>Mark,</hi> 16. 16. Now, If Infants are not excluded in <hi>Mathew,</hi> they be<g ref="char:EOLhyphen"/>ing part of the Nations, then there is no Creature excluded from Baptism in <hi>Mark</hi> 16. 16 because, the Gospel is to be preached to every Creature: Then by this kind of Logick; Birds and Beasts, as
+<pb facs="tcp:33560:21"/> well as Babes may be baptised; for they are Creatures, if he saith they are not <hi>Subjectum Capis,</hi> I say neither are Infants: And would it not be improper to say an Infant may be Christened before it's Born naturally; so it is to imagine that Christ, or his Apostles, did admit any to Gospel-baptism be<g ref="char:EOLhyphen"/>fore they were spiritually born by Faith and Re<g ref="char:EOLhyphen"/>pentance.</p>
+            <p>P. 86. The Dr. supposes, <q>That if this Commissi<g ref="char:EOLhyphen"/>on were given to several Divines of the Church of <hi>England,</hi> to go and Disciple the <hi>Indians,</hi> would they not first Preach the Gospel? And when the Adult had imbraced it, would they not have Bapti<g ref="char:EOLhyphen"/>sed them? And when this were done, can any ima<g ref="char:EOLhyphen"/>gine that these Missioners would refuse their In<g ref="char:EOLhyphen"/>fants?—</q>
+            </p>
+            <p>And the Argument the Dr. useth to perswade us to Believe they would then Baptise their Infants, is;</p>
+            <p>
+               <q>Seeing it is in use amongst us here in <hi>England,</hi> from whence the Commission came, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> Sir, what they would do, I know not; but I have some reason to believe the Divines of your Church would be too like the Veins of your Stee<g ref="char:EOLhyphen"/>ples; and would before all things prefer their own Interest and Safety; as hath been too evident in former Revolutions.</p>
+            <p n="2">2. I do not suppose they would refuse to Baptise their Infants; for why may they not serve for Mem<g ref="char:EOLhyphen"/>bers of a Carnal National Church in <hi>India,</hi> as well as <hi>England:</hi> But were the Apostle's of Christ, or their Successors in the same Faith, to go, they would refuse to Baptise their Infants; and say, <hi>We have no such Custom, nor the Churches of Christ.</hi>
+            </p>
+            <p>And then in p. 81. He saith, <q>That if the Com<g ref="char:EOLhyphen"/>mission had run, <hi>Go,</hi> Proselite all Nations Circum<g ref="char:EOLhyphen"/>cising
+<pb facs="tcp:33560:22"/> them? he appeals to us whether the Infants of such <hi>Gentiles Proselites,</hi> should be excluded Cir<g ref="char:EOLhyphen"/>cumcision.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> Take this short Answer; We do believe all Females, Women and Infants, would not be Included, and so Excluded, because they had not those Natural Parts to qualify them for it. So I also Believe all Infants are excluded Baptism, be<g ref="char:EOLhyphen"/>cause they have not those Spiritual parts to qualify them for it—And let this serve for an Answer; for the Women, and Female Infants, are a part of the Nations also.</p>
+            <p>And as for the Dr's Arguing, that because some In<g ref="char:EOLhyphen"/>fants were capable of Circumcision, is Frivolous; for doth it follow that because it was the Will of the great Legislator to give a positive Command that the Male-Infants should be Circumcised on the <hi>eighth day</hi> precisely, upon a severe Penalty, that vain Man without any Command, must Baptise Male and Fe<g ref="char:EOLhyphen"/>male Infants, on the 1st, 3d, or 7th day; when it's e<g ref="char:EOLhyphen"/>vident, <hi>Abrams</hi> Natural Seed had no right to Baptism: Nor have any, but such as do the works of <hi>Ab'ram.</hi> Because the Fruit-trees were holy <hi>Lev.</hi> 19. 23. 24. Cir<g ref="char:EOLhyphen"/>cumcised, and in Covenant, therefore we must baptise ours in <hi>England</hi> take them into Churchmembership. And now tho' the Dr. hath indeavoured to rub the Rust of this Old and Forlorn Argument, that hath been as oft Confuted as Started, as he cannot be Ignorant of, even by Learned pens. Now there is not a word in the Gospel to institute Infant-baptism, as hath been asserted, neither Precept nor Example, as hath been both Expresly and Tacitly granted. And then it is safe to be Sober, and not to advance above Gospel-Rule for Gospel-Worship: as tho' we must be sent to School to the Old Ceremonial Law, that is vanished, <hi>Hebr.</hi> 8. to learn Gospel-Or<g ref="char:EOLhyphen"/>dinances,
+<pb facs="tcp:33560:22"/> as tho' Christ our great Prophet, who is come, had not by Positive, or (to use our Doctor's Phrase) Express Commands and Example, establish<g ref="char:EOLhyphen"/>ed his Ordinances, without the Retrogression to <hi>Moses;</hi> and assimilating them to the <hi>Paedigogy</hi> and Si<g ref="char:EOLhyphen"/>militude of Tipes, <hi>&amp;c.</hi> And to end the Dr's Plea-from hence, and Confute this Consequence I shall give the Reader one Instance or two out of some Eminent <hi>Paedobaptists</hi> Writings.</p>
+            <p>First, The Lord <hi>Brooks,</hi> in his Treatise of <hi>Epis<g ref="char:EOLhyphen"/>copacy,</hi> p. 100. saith thus; <q>That the Analogy which <hi>Baptism</hi> now hath with <hi>Circumcision,</hi> in the Old Law, is a fine rational Argument to illustrate a Point well Proved before. But I somewhat doubt, saith he, whether it be Proof enough for that which some would prove by it; since besides, the vast Difference in the Ordinances, the Persons to be Circumcised, are stated by a positive Law, so ex<g ref="char:EOLhyphen"/>press that it leaves no place for Scruple; but it is far otherwise in <hi>Baptism,</hi> where all the Design<g ref="char:EOLhyphen"/>ations, for ought I know of Persons fit to be Parta<g ref="char:EOLhyphen"/>takers, is only such as Believe; for this is the qua<g ref="char:EOLhyphen"/>lification which with exactest search I find the Scri<g ref="char:EOLhyphen"/>ptures mentions Persons to be Baptised; and this it seems to require in all such Persons: Now, how In<g ref="char:EOLhyphen"/>fants can properly be said to Believe I am not yet fully Resolved.</q>
+            </p>
+            <p>Thus far this Learned Gentleman Learnedly and Truly Argues against our Dr. Tho' he was a <hi>Paedo<g ref="char:EOLhyphen"/>baptist,</hi> sure he had not found out our <hi>Dr</hi>'s Distin<g ref="char:EOLhyphen"/>ction about two Species, or Kinds of Church-members? He was more ingenious than to impose frivolous Non-sequiters upon the belief of his Reader.</p>
+            <p>Again, <hi>Dr. Taylor, lib. Proph.</hi> p. 228. Who saith, <q>The Argument from Circumcision is invaled upon Infinite Considerations, Figures and Types prove
+<pb facs="tcp:33560:23"/> nothing except a Command to go along with it: Or some Example to signify such to be their Pur<g ref="char:EOLhyphen"/>poses, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>So that I conclude safely, and take no more than is given me from these two <hi>Paedobaptist</hi> Gentlemen, That Infant-baptism cannot be concluded from Cir<g ref="char:EOLhyphen"/>cumcision, without a Gospel-Command; and our <hi>Dr.</hi> hath granted that there is none: For it is unrea<g ref="char:EOLhyphen"/>sonable to expect it.</p>
+            <p>And because as hath been said, there were no Qua<g ref="char:EOLhyphen"/>lifications required to fit male Infants for Circum<g ref="char:EOLhyphen"/>cision, the <hi>Dr.</hi> spends three or four Pages in quoting Texts, that spoke of the adult <hi>Israelites,</hi> to <hi>wash them, make them clean;</hi> and <hi>David</hi>'s praying for a <hi>clean Heart,</hi> &amp;c. and the <hi>Jews</hi> were admonished to take <hi>away the fore-skin</hi> of their <hi>Hearts,</hi> &amp;c.—A thin Shrub for the <hi>Dr.</hi> to shroud under.</p>
+            <p>Then p. 35. The <hi>Dr.</hi> asks, <hi>Whether an Infant of eight days old, could Circumcise the Heart.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> No, it could not, neither was it required; nor could it have a broken Spirit. It was never made the antecedent to Circumcision, preparatory for it; tho it's absolutely necessary to be found in all that are to be <hi>Baptised,</hi> p. 56. Tho' <hi>Circumcision</hi> were good, and valed even to <hi>Babes</hi> and <hi>Fruit-trees,</hi> yea, <hi>Fools, deaf</hi> and <hi>dumb Babes</hi> of <hi>eight days old:</hi> Yet to <hi>Sprinkle</hi> an <hi>Infant,</hi> and call it <hi>Baptism,</hi> is a mock Baptism, and sets the Infant on Crying, when the right Subject goes away Rejoycing. For there is this difference, That Law was a Yoke that we nor our Fathers were able to bear, so tedious was the Yoke of <hi>Circumcision:</hi> but shall we <hi>Jewdise</hi> the Gospel, and make that so too, and make their Hearts sad whom God hath not made sad: But I pass this having already spoke of his pretended Priviledges that Infants enjoy by their Church-membership, p. 60.
+<pb facs="tcp:33560:23"/> and shewed that after all his stir, they are just none at all.</p>
+            <p>The <hi>Dr.</hi> p. 63. 67. Here is a strange Consequence he would fain should help him out: He asks, <hi>Whe<g ref="char:EOLhyphen"/>ther Infants are not capable of Civil Adoption, and to be admitted into a College, or Hospital,</hi> &amp;c.</p>
+            <p>
+               <hi>Reply.</hi> Yes; they are: And what if they are capa<g ref="char:EOLhyphen"/>ble of it? Doth it follow that then they may be Ba<g ref="char:EOLhyphen"/>tised? What weak Trifles are these from such a Parson!</p>
+            <p>In p. 67. The <hi>Dr.</hi> saith, <q>He will explain it by considering civil affairs in the act of Naturalization of foreign Protestants; the Parents only do take the Oaths, and Test; for Infants know nothing of the matter, yet this Act of the Parents is imputed to the Children, for their Benefit, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> Well then, the Parents may Believe and be Baptised, and their Infants may enjoy all the Privi<g ref="char:EOLhyphen"/>ledges they are capable of; and yet know nothing of Baptism; because as the Infant hath not Wisdom, nor cannot understand the Oaths and Test, so he is alto<g ref="char:EOLhyphen"/>gether as uncapable of Baptism, which is a solemn Covenanting with God. And so let that pass.</p>
+            <p>P. 62. The <hi>Dr.</hi> saith <q>If our <hi>Infants</hi> are not Chri<g ref="char:EOLhyphen"/>stians, <hi>Jews,</hi> nor <hi>Turks,</hi> then they are <hi>Heathens;</hi> and then the Apostles will admonish you that <hi>they are without Christ, without Hope, without God in the World,</hi> &amp;c. <hi>Ephes.</hi> 2. 12. And p. 63. He tells us, That out of the Church there is no Salvation; and what will you leave them to the general Mercy of God, like a Company of Heathens?</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> Our <hi>Dr.</hi> was but now, in p. 48. Condem<g ref="char:EOLhyphen"/>ning us for mis-application of Scriptures, tho without the least just cause: But behold, he is grosly mis-ap<g ref="char:EOLhyphen"/>plying two Texts; doth <hi>Ephes.</hi> 2. 12. speak of <hi>Infants?</hi> No, sure: did they walk according to the
+<pb facs="tcp:33560:24"/>
+               <hi>Course of this World?</hi> Had they their Conversations in the <hi>Lusts of the Flesh,</hi> verse 2, 3,</p>
+            <p>Again, p. 63. He saith, Out of the Church there is no Salvation: and Cites <hi>Acts 2. 47. And the Lord added to the Church, daily such as should be Saved</hi>
+            </p>
+            <p>Are <hi>Infants</hi> intended here? Surely the <hi>Dr</hi> dare not say it for Shame: <hi>Did Peter</hi> Preach to them, and Convert and Baptise them? surely no: verse 46. did <hi>Infants</hi> continue stedfast in the <hi>Apostles Do<g ref="char:EOLhyphen"/>ctrine</hi> and Fellowship in breaking Bread and Prayer, and it was such as these that <hi>were added to the Church.</hi> And, Sir, is there no Salvation out of your Church? <hi>I</hi> never heard a Protestant say so before: <hi>I</hi> know the <hi>Papal</hi> Church so concludes; then it's time for silly Women, that believe it, to be frighted if their <hi>Infants</hi> should dye before they are Sprinkled: and then it seems the general Mercy of God, without the particular Mercy of the <hi>Priest, Infants</hi> cannot be Saved. But <hi>I</hi> leave this to the Reader, and the <hi>Dr</hi>'s second thoughts; and say, <hi>Infants</hi> are saved without Faith or Baptism, by the Merits of Christ.</p>
+            <p>p. 64. He is offering strange dictates, and would have us to believe, That <hi>Infants</hi> are Believers before they Believe, <hi>&amp;c</hi>
+            </p>
+            <p>p. 65. He saith, <q>God doth estimate them as Be<g ref="char:EOLhyphen"/>lievers:</q>
+            </p>
+            <p>Well Sir, and he estimates them as Baptised, with<g ref="char:EOLhyphen"/>out Baptism: And what then?</p>
+            <p>Again he tells us, that <hi>Infants</hi> are esteemed as Ra<g ref="char:EOLhyphen"/>tional Creatures, and treated as such, not as Brutes.</p>
+            <p>
+               <hi>Reply, I</hi> grant it; <hi>I</hi> shall frame an Argument from it to his hand thus; <hi>Those Infants that may be treat<g ref="char:EOLhyphen"/>ed as Rational Creatures, not as Brutes, may be Ba<g ref="char:EOLhyphen"/>ptised;</hi> But,</p>
+            <pb facs="tcp:33560:24"/>
+            <p>
+               <hi>Infants of</hi> Turks <hi>and</hi> Jews <hi>may be treated as Ra<g ref="char:EOLhyphen"/>tional Creatures, not as Brutes;</hi> ergo, <hi>Infants of</hi> Turks <hi>and</hi> Jews <hi>may be Baptised:</hi>
+            </p>
+            <p>
+               <hi>I</hi> suppose the <hi>Dr.</hi> on a second view, will not like the looks of his Assertion, or Inference.</p>
+            <p>What he cites out of the Book of Martyrs as Mr. <hi>Filpot</hi>'s Words, does him no kindness; but makes against him as to the case in hand: If <hi>Infants</hi> can<g ref="char:EOLhyphen"/>not profess him, they cannot put him on by Ba<g ref="char:EOLhyphen"/>ptism,—And after a great deal of Circumlocution, and vain Reitterations, (3ly in p. 73.) he puts us to prove where Christ, the great Law giver to the Gospel-Church hath said he will not admit them: And this he calls the very hinge of the Controversie. And here <hi>I</hi> shall mention the ac<g ref="char:EOLhyphen"/>count the Reverend Doctor <hi>Stillingfleet</hi> gives of the plea of his Popish Adversary, in his discourse con<g ref="char:EOLhyphen"/>cerning the Idolatry of <hi>Rome.</hi> p. 177. <q>The <hi>Jesuit</hi> saith the Charge of <hi>Idolatry</hi> brought by the <hi>Dr.</hi> is groundless; because it's not declared in divine Truth; that honour is not to be giv<g ref="char:EOLhyphen"/>en to <hi>Images</hi> of Christ, and his Saints, that what appears to be bread in the Eucharist, is not the Body of Christ; that it is not lawful to in<g ref="char:EOLhyphen"/>voke Saints to Pray for us. These are the <hi>Jesuit</hi>'s words requiring the <hi>Dr.</hi> to prove these negatives, on which single point he puts the stress of his argument. Just so doth our <hi>Dr:</hi> But, saith the <hi>Dr.</hi> now Bishop of <hi>Worcester,</hi> the point is so easy it will not require much time to dis<g ref="char:EOLhyphen"/>patch it; for <hi>I</hi> assert it to be an Article of my Faith, that God alone is to be Worshiped with <hi>Divine</hi> and <hi>Religious</hi> Worship; and he that canot inferr that no created being is to be Wor<g ref="char:EOLhyphen"/>shipped, hath the name of a reasonable Creature given him to no purpose: What need we make
+<pb facs="tcp:33560:25"/> Negative Articles of Faith; that the <hi>Pope is not Tradition is not; Councils are not; a private Spirit is not:</hi> For all these things are necessarily implyed therein. We do therefore Refuse the Belief of them, because not contained in the only Rule of Faith the Bible.</q>
+            </p>
+            <p>Now, Sir, take the same Answer; Believer's Bap<g ref="char:EOLhyphen"/>tism is contained plainly in the Scriptures, the only Rule of our Faith; therefore lest we should have the Name of Rational Creatures given us to no pur<g ref="char:EOLhyphen"/>pose, we can infer, that neither Bells, nor Babes, are Subjects of Baptism; and thus Sir, your main hinge as you call it p. 73. is by your own <hi>Dr.</hi> quite thrown off the Hook; and all your pressing us to assign a Prohibition as you do to p. 77. doth but Sym<g ref="char:EOLhyphen"/>bolize you with the Jesuit, your now <hi>Bishops</hi> Antago<g ref="char:EOLhyphen"/>nis<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: But to conclude, the <hi>Dr</hi> grants p. 99. that the <hi>Doctrine</hi> of the Gospel was not Calculated for In<g ref="char:EOLhyphen"/>fants: Then I am sure, the <hi>Doctrine</hi> of <hi>Baptism</hi> was not, which is one great <hi>Doctrine</hi> of the <hi>Gospel.</hi>
+            </p>
+            <p>I shall conclude with these two Arguments.</p>
+            <p n="1">Argum. <hi>The New Testament doth plainly and sufficiently declare unto us, who are the proper and capable Subjects of Baptism. But the New Testa<g ref="char:EOLhyphen"/>ment doth not plainly and sufficiently declare that Infants are the proper and capable subjects of Baptism: Therefore Infants are not the proper and capable Sub<g ref="char:EOLhyphen"/>jects of Baptism.</hi>
+            </p>
+            <p n="2">Argum. <hi>If Infant-baptism were an Ordinance of Christ, then the Scriptures would somewhere declare, how, when, or where Christ ordained it: but the Scri<g ref="char:EOLhyphen"/>ptures no were declare how, when or where Christ or<g ref="char:EOLhyphen"/>dained it;</hi> ergo, <hi>Infants-baptism is no Ordinance of Christ:</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33560:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
